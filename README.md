@@ -1,2 +1,2 @@
 # hello-world
-test commit on gitHub
+this is a hello world project. 
